@@ -111,7 +111,7 @@ jupyter notebook
 Open:
 
 ```bash
-Day 33 Logistic Regression iris-flower-data(3).ipynb
+Logistic Regression iris-flower-data.ipynb
 ```
 
 Run all the cells to execute the project.
